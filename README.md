@@ -1,5 +1,5 @@
 # resumoApiREST
-Neste repositório terá explixações sobre: diferenças entre rest e restfull, http verbs, http status code.
+Neste repositório terá explicações sobre: diferenças entre rest e restfull, http verbs, http status code.
 
 
 ## Diferenças entre Rest e Restfull
